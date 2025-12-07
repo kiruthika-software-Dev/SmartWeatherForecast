@@ -1,15 +1,67 @@
-<<<<<<< HEAD
-# WeatherApplication
-A simple weather application 
 
-STEPS TO RUN THE CODE:  
 
-1.install the code package and open the folder in vs code.   
-2.run the code go live.   
-3.web page will open enter the city name click search.     
-4.it will redirect to the next page of prediction page in that page you can also check the current weather prediction of other locations.
-﻿# Weather Prediction
+````md
+# 🌤️ SmartWeatherForecast
 
-=======
-# SmartWeatherForecast
->>>>>>> f49c2685aad1c189855b378dca843ff6329105cf
+A simple and intuitive weather application that allows users to check the weather of any city in real-time, including current conditions and predictions for other locations.
+
+---
+
+## 🚀 Features
+
+- Search weather by city name  
+- View current temperature, humidity, and weather conditions  
+- Get predictions for multiple locations  
+- Simple and user-friendly web interface  
+
+---
+
+## 🏗 Steps to Run the Code
+
+1. **Install Dependencies**  
+   Make sure you have Python and required packages installed.  
+
+```bash
+pip install -r requirements.txt
+````
+
+2. **Open the Project in VS Code**
+   Navigate to the project folder and open it in Visual Studio Code.
+
+3. **Run the Web Application**
+   Start the application using **Go Live** or your preferred method.
+
+4. **Use the Application**
+
+   * Open the web page in your browser
+   * Enter a city name and click **Search**
+   * View the weather predictions on the results page
+   * Check the weather for other locations
+
+---
+
+## ⚙️ Tech Stack
+
+* **Frontend**: HTML, CSS, JavaScript
+* **Backend**: Python, Flask (optional)
+* **API**: OpenWeatherMap or similar weather API
+* **Tools**: VS Code, Live Server
+
+---
+
+## 📂 Project Structure
+
+```
+📁 SmartWeatherForecast
+ ├── templates/
+ │    └── index.html
+ ├── static/
+ │    ├── css/
+ │    └── js/
+ ├── app.py
+ ├── requirements.txt
+ └── README.md
+```
+
+---
+
