@@ -1,6 +1,6 @@
 
 
-````md
+
 # 🌤️ SmartWeatherForecast
 
 A simple and intuitive weather application that allows users to check the weather of any city in real-time, including current conditions and predictions for other locations.
